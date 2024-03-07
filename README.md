@@ -1,5 +1,5 @@
 # ML_Algos
-Minimalistic codes for machine learning algorithms
+Minimalistic implementation of following machine learning algorithms
 
 1. Decision Tree
 2. Logisitic Regression
